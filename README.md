@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/@priyanshunaska9" target="blank"><img src="https://img.shields.io/twitter/follow/@priyanshunaska9?logo=twitter&style=for-the-badge" alt="@priyanshunaska9" /></a> </p>
 
+- 🌱 I’m currently learning **Flutter Development**
+
 - 📫 How to reach me **priyanshunaskar89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
