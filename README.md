@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyansh Naskar</h1>
 <h3 align="center">Hii👋, I am Flutter developer and Competitive programming enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/priyanshunaska9" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/priyanshunaska9?logo=twitter&style=for-the-badge" alt="https://twitter.com/priyanshunaska9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@priyanshunaska9" target="blank"><img src="https://img.shields.io/twitter/follow/@priyanshunaska9?logo=twitter&style=for-the-badge" alt="@priyanshunaska9" /></a> </p>
 
 - 📫 How to reach me **priyanshunaskar89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/priyanshunaska9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/priyanshunaska9" height="30" width="40" /></a>
+<a href="https://twitter.com/@priyanshunaska9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshunaska9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-naskar-a679991b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-naskar-a679991b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_priyanshnaskar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_priyanshnaskar/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/priyansh2802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/priyansh2802" height="30" width="40" /></a>
