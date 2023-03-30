@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Priyanshu Naskar and I'm a Flutter Full Stack developer</h2>
+<h1 align="center">Hi 👋, I'm Priyansh Naskar</h1>
+<h3 align="center">I am Flutter developer and Competitive programming enthusiast</h3>
+
+- 🌱 I’m currently learning **Flutter Development**
+
+- 📫 How to reach me **priyanshunaskar89@gmail.com**
 
 ###
 
