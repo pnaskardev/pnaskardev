@@ -57,6 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pnaskardev/pnaskardev/blob/output/snake.svg" alt="Snake animation" />
-
+<!-- <img src="https://raw.githubusercontent.com/pnaskardev/pnaskardev/blob/output/snake.svg" alt="Snake animation" /> -->
+![Snake animation](https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake.svg)
 ###
