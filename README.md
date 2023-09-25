@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansh Naskar</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Naskar</h1>
 <h3 align="center">I am Backend developer</h3>
 
 - 🌱 I’m currently learning **Backend Development** with **Django and Django REST Framework**
