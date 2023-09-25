@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Naskar</h1>
-<h3 align="center">I am Flutter developer and Competitive programming enthusiast</h3>
+<h3 align="center">I am Backend developer</h3>
 
-- 🌱 I’m currently learning **Backend Development** with **Node**
+- 🌱 I’m currently learning **Backend Development** with **Django and Django REST Framework**
 
 - 📫 How to reach me **priyanshunaskar89@gmail.com**
 
