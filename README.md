@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Naskar</h1>
-<h3 align="center">I am Backend developer</h3>
+<h3 align="center">I am Software Developer</h3>
 
-- 🌱 I’m currently learning **Backend Development** with **Django and Django REST Framework**
+- 🌱 I’m currently learning **Backend Development** with **Golang**
 
 - 📫 How to reach me **priyanshunaskar89@gmail.com**
 
@@ -62,6 +62,5 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/pnaskardev/pnaskardev/blob/output/snake.svg" alt="Snake animation" /> -->
-![Snake animation](https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake.svg)
+
 ###
