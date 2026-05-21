@@ -133,15 +133,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnaskardev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnaskardev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnaskardev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&border_radius=12&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnaskardev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pnaskardev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d29922&currStreakLabel=58a6ff&sideLabels=85b7eb&dates=8b949e&sideNums=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=pnaskardev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d29922&currStreakLabel=58a6ff&sideLabels=85b7eb&dates=8b949e&sideNums=c9d1d9" />
 
 </div>
 
@@ -162,9 +162,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnaskardev/pnaskardev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pnaskardev/pnaskardev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pnaskardev/pnaskardev/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
