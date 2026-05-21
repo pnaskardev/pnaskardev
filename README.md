@@ -1,108 +1,184 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Naskar</h1>
-<h3 align="center">Backend Engineer | Scalable Systems Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  I design and build <b>scalable backend systems</b>,  
-  focusing on <b>performance, reliability, and clean architecture</b>.
-</p>
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                    HEADER BANNER                        -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Priyanshu%20Naskar&fontSize=54&fontColor=e6f1fb&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Scale%20Obsessed&descAlignY=60&descSize=17&descColor=85b7eb" />
+
+<br/>
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Building+systems+that+scale+%F0%9F%9A%80;Distributed+systems+enthusiast+%E2%9A%A1;Go+%7C+Python+%7C+Node.js+craftsman;API+Architect+%7C+Async+Systems+Builder;Clean+code+%2B+deep+internals+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=pnaskardev&style=flat-square&color=378add&label=PROFILE+VIEWS)
+
+<br/>
+
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-naskar-a679991b7/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PriyanshuNaska9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_priyanshnaskar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshunaskar89@gmail.com)
+
+</div>
+
+<br/>
 
 ---
 
-### 🚀 About Me
+## 🖥️ `$ whoami`
 
-- 🧠 Backend-focused engineer with strong fundamentals in **distributed systems**
-- 🛠️ Experienced in building **production-grade APIs** and **async systems**
-- 🌱 Currently learning **Go (Golang)** with emphasis on:
-  - Concurrency & goroutines
-  - System design patterns
-  - High-throughput services
-- 🔍 Deeply interested in:
-  - Scalability
-  - Message queues & async processing
-  - Databases & data modeling
-- 📫 Reach me at **priyanshunaskar89@gmail.com**
-
----
-
-### 🧩 Tech Stack
-
-#### Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="35" />
-</div>
-
-#### Backend & Frameworks
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
-</div>
-
-#### Databases & Messaging
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="35" />
-</div>
-
-
-#### Cloud & DevOps
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" />
-</div>
+```json
+{
+  "name"       : "Priyanshu Naskar",
+  "role"       : "Backend Engineer",
+  "focus"      : ["Scalable APIs", "Distributed Architecture", "Async Systems"],
+  "currently"  : "Learning Go — goroutines, concurrency patterns & high-throughput design",
+  "deep_dives" : ["Message Queues", "Database Internals", "System Design Patterns"],
+  "location"   : "India 🇮🇳",
+  "open_to"    : "Challenging backend roles & open-source collaboration",
+  "philosophy" : "Understand the internals. Not just the frameworks."
+}
+```
 
 ---
 
-### 🧠 What I Focus On
-
-- Designing **scalable APIs**
-- Writing **clean, testable backend code**
-- Handling **high concurrency & async workflows**
-- Optimizing **database queries & data pipelines**
-- Understanding **system internals**, not just frameworks
-
----
-
-### 📊 GitHub Stats
+## ⚡ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pnaskardev&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnaskardev&layout=compact&theme=dracula" height="160" />
+
+### 🔤 Languages
+<br/>
+
+[![Languages](https://skillicons.dev/icons?i=go,py,js,ts&perline=8)](https://skillicons.dev)
+
+### 🔧 Backend & Frameworks
+<br/>
+
+[![Backend](https://skillicons.dev/icons?i=django,express,nodejs,fastapi&perline=8)](https://skillicons.dev)
+
+### 🗄️ Databases & Messaging
+<br/>
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&perline=8)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps
+<br/>
+
+[![DevOps](https://skillicons.dev/icons?i=docker,gcp,azure,linux&perline=8)](https://skillicons.dev)
+
+### 🛠️ Tools & Workflow
+<br/>
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vim&perline=8)](https://skillicons.dev)
+
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## 🎯 What I Focus On
 
-<div>
-  <a href="https://www.linkedin.com/in/priyanshu-naskar-a679991b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/PriyanshuNaska9" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_priyanshnaskar/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:priyanshunaskar89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture & Design
+- Production-grade **scalable API** design
+- **Clean, testable** backend code that lasts
+- System internals over surface-level frameworks
+- Event-driven & **microservice patterns**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Performance & Reliability
+- High **concurrency & async** workflow engineering
+- **Database query** optimization & indexing
+- Efficient **data pipeline** architecture
+- Load testing & capacity planning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Distributed Systems
+- **Message queues** & async processing (RabbitMQ, Kafka)
+- Distributed state & **consistency patterns**
+- Service communication & resilience (retries, backoff)
+- Observability: logging, tracing & metrics
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Currently Growing
+- **Go** — goroutines, channels, sync primitives
+- High-throughput service patterns
+- Advanced system design & trade-off analysis
+- Contributing to open-source backend tooling
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnaskardev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnaskardev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" />
+
+</div>
+
+<div align="center">
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pnaskardev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d29922&currStreakLabel=58a6ff&sideLabels=85b7eb&dates=8b949e&sideNums=c9d1d9" />
+
 </div>
 
 ---
 
-### 🐍 Contributions
+## 📈 Activity Graph
 
-![Snake animation](https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+[![Priyanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pnaskardev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=378add&point=d29922&area_color=0c447c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Build systems that scale — not just code that works."</i>
-</p>
+## 🐍 Contribution Garden
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/pnaskardev/pnaskardev/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+*`> Systems don't just happen — they're designed, measured, and refined.`*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" />
+
+</div>
