@@ -66,12 +66,17 @@ query plans, queue semantics, why the p99 looks like that.
 
 ### `$ gh stats`
 
-<div align="center">
-  <img height="150" alt="github stats"
-    src="https://github-readme-stats.vercel.app/api?username=pnaskardev&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&theme=transparent&text_color=7d8590&icon_color=58a6ff&ring_color=58a6ff&cache_seconds=1800" />
-  <img height="150" alt="top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pnaskardev&layout=compact&langs_count=6&card_width=320&hide_title=true&hide_border=true&theme=transparent&text_color=7d8590&cache_seconds=1800" />
-</div>
+<!-- STATS:START -->
+
+```
+┌─ stats ──────────────────────────────────────────────────────┐
+│                                                              │
+│  awaiting first sync — run the "Generate Datas" workflow     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<!-- STATS:END -->
 
 ### `$ contact --list`
 
