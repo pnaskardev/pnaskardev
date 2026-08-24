@@ -71,8 +71,17 @@ query plans, queue semantics, why the p99 looks like that.
 ```
 ┌─ stats ──────────────────────────────────────────────────────┐
 │                                                              │
-│  awaiting first sync — run the "Generate Datas" workflow     │
+│  REPOS       29      STARS        0      FOLLOWERS   22      │
+│  COMMITS    177      PRS          3      ISSUES       2      │
 │                                                              │
+│  Go          ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   20.9 %   │
+│  TypeScript  ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   20.4 %   │
+│  HTML        ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.5 %   │
+│  Python      █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.8 %   │
+│  Dart        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.0 %   │
+│                                                              │
+│  commits · prs · issues over the last 12 months              │
+│  updated 2026-08-24 12:47 UTC                                │
 └──────────────────────────────────────────────────────────────┘
 ```
 
