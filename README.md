@@ -1,5 +1,5 @@
 ```
-┌─ pnaskardev ──────────────────────────────────── [ ONLINE ] ─┐
+┌─ pnaskardev ─────────────────────────────── IST · UTC+05:30 ─┐
 │                                                              │
 │   P R I Y A N S H U   N A S K A R                            │
 │   backend engineer · india                                   │
