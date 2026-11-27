@@ -71,7 +71,7 @@ query plans, queue semantics, why the p99 looks like that.
 ```
 ┌─ stats ──────────────────────────────────────────────────────┐
 │                                                              │
-│  REPOS       32      STARS        0      FOLLOWERS   22      │
+│  REPOS       32      STARS        0      FOLLOWERS   21      │
 │  COMMITS    203      PRS          4      ISSUES       7      │
 │                                                              │
 │  TypeScript  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   21.7 %   │
@@ -81,7 +81,7 @@ query plans, queue semantics, why the p99 looks like that.
 │  Dart        ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    9.6 %   │
 │                                                              │
 │  commits · prs · issues over the last 12 months              │
-│  updated 2026-11-24 21:57 UTC                                │
+│  updated 2026-11-27 20:43 UTC                                │
 └──────────────────────────────────────────────────────────────┘
 ```
 
